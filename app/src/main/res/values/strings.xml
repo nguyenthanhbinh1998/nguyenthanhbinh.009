@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginAndRegistration</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_having_account">Already Having an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="not_having_account">Not Having an Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="tut_android">
+        <item>1.Automatic saving</item>
+        <item>2.Clean up your wallet every weekend</item>
+        <item>3.It seems like no salary increase</item>
+        <item>4.Keep the budget to pay the debt even when the debt runs out</item>
+        <item>5.Collect unexpected amounts</item>
+        <item>6.Use the expense management application</item>
+        <item>7.Create barriers between you and your savings</item>
+        <item>8.Save money from a credit card</item>
+        <item>9.Wait a week before buying value</item>
+        <item>10.No card information is stored on the computer</item>
+    </string-array>
+</resources>
